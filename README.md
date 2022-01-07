@@ -6,7 +6,9 @@ Muestra de Packet Tracer
 
 #senati #cursos #guias #foro #tarea #entregable #cisco #entregables
 
-Escucha mi playlist.
+################################################
+              Escucha mi playlist:
+################################################
 https://soundcloud.com/stmpdrcrds/stmpd-rcrds-radio-009-josh-charm?si=2802d684247842b5ac1d433083a49e79&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 [![sokcoskc.png](https://i.postimg.cc/k50FZVsm/sokcoskc.png)](https://postimg.cc/8Fb6fzxK)
